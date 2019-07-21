@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"1.fastl-config;./modules/fastly-deployment","Source":"./modules/fastly-deployment","Dir":".terraform/modules/ddbe54f888e6c7adcf8e74c88d6c13ab"},{"Key":"","Source":"","Dir":"."},{"Key":"fastl-config","Source":"./modules/fastly-deployment","Dir":"modules/fastly-deployment"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"fastl-config","Source":"./modules/fastly-deployment","Dir":"modules/fastly-deployment"}]}
