@@ -10,6 +10,7 @@ variable "defaultTtl" {
 
 variable "domain_name" {
 <<<<<<< HEAD
+<<<<<<< HEAD
   default = "fast.frinkbuster.co.uk"
 }
 
@@ -30,6 +31,8 @@ variable "address_3" {
 variable "address_4" {
   default = "ec2-63-33-213-245.eu-west-1.compute.amazonaws.com"
 =======
+=======
+>>>>>>> a1164ebbc0a99f13d035fe2121bf8020623be74a
   default="fast.frinkbuster.co.uk"
 }
 
@@ -58,6 +61,10 @@ variable "backend_1" {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> a1164ebbc0a99f13d035fe2121bf8020623be74a
 =======
 
 >>>>>>> a1164ebbc0a99f13d035fe2121bf8020623be74a
@@ -73,6 +80,9 @@ variable "backend_4" {
   default = "origin4"
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> a1164ebbc0a99f13d035fe2121bf8020623be74a
 =======
 >>>>>>> a1164ebbc0a99f13d035fe2121bf8020623be74a

@@ -12,5 +12,7 @@ module "fastl-config" {
   address_4 = "ec2-63-33-213-245.eu-west-1.compute.amazonaws.com"
 =======
 >>>>>>> a1164ebbc0a99f13d035fe2121bf8020623be74a
+=======
+>>>>>>> a1164ebbc0a99f13d035fe2121bf8020623be74a
 }
 
