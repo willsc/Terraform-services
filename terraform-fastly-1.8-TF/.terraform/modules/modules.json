@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"service2","Source":"./modules/fastly","Dir":"modules/fastly"},{"Key":"service3","Source":"./modules/fastly","Dir":"modules/fastly"},{"Key":"service4","Source":"./modules/fastly","Dir":"modules/fastly"},{"Key":"","Source":"","Dir":"."},{"Key":"service1","Source":"./modules/fastly","Dir":"modules/fastly"}]}
